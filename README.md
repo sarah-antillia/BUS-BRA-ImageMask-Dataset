@@ -93,7 +93,7 @@ By using Python script <a href="./generator/split_master.py">split_master.py</a>
 <br>
 <br>
 
-You can download the latest modified dataset from the google drive 
+You can download the latest dataset from the google drive 
 <a href="https://drive.google.com/file/d/1SafNtMgHlr_0fludiIxpaRNqwA7muQKr/view?usp=sharing">
 BUS-BRA-ImageMask-Dataset.zip</a>.
 
